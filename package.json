@@ -1,0 +1,11 @@
+{
+  "name": "firstlab",
+  "version": "1.0.0",
+  "description": "Primera laboratorio en esta primera laboratorio vamos a crear una basica landing page con un formulario, imágenes, links a las redes sociales y un video de youtube iframe usando __HTML + CSS + Javascript__. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fishercodeit@gmail.com",
+  "license": "ISC"
+}
